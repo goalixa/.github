@@ -1,4 +1,5 @@
 # Goalixa
+<img width="1629" height="822" alt="image" src="https://github.com/user-attachments/assets/31525461-4a15-4bc5-ab9d-20566325fcb7" />
 
 **Goalixa** is an open-source, DevOps-driven productivity platform designed to help individuals plan, execute, and measure their work — while also serving as a real-world playground for modern infrastructure, SRE practices, and AI-assisted operations.
 
